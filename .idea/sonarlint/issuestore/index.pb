@@ -5,3 +5,5 @@ R
 "contracts/device-registration.clar,e/a/ea0affb269bc48f93ae22e0a3df49b533a0cc00c
 Q
 !tests/device-registration.test.ts,e/9/e93fb2a5e55c1d2b7f63f3fd2ee4fa29126d3d79
+C
+contracts/data.clar,9/d/9d1e761e2482e6343536d6a088f524318a42ca34
